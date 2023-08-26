@@ -1,2 +1,31 @@
 # AgriBangla
 Design and developing a website for agricultural purposes by using HTML, CSS, Bootstrap, Javascript, Php
+
+
+![Screenshot (1)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/d10b9d92-93de-41a0-a8e8-82f5ecae681b)
+
+![Screenshot (2)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/c41ae432-87aa-4d06-b4fd-9197315f609d)
+![Screenshot (3)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/d2b373d3-e968-4174-a4e3-810384f5083a)
+![Screenshot (4)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/fe21129e-9344-4980-9ad3-facb0afe649d)
+![Screenshot (5)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/04f77bd0-afb9-4cf8-b9d4-3ab4c7ad969f)
+![Screenshot (6)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/db765a81-2958-41a5-9e77-4459cd2a2b6b)
+![Screenshot (7)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/200b79bf-4039-4c1b-9fbf-b02238fd1430)
+![Screenshot (8)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/ce95662c-ef37-4367-bce1-8fddc276dba8)
+![Screenshot (9)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/8ac95c6d-ab16-4f6d-a576-dd70e786ffbd)
+![Screenshot (10)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/b7cb3b13-b02f-41e3-a15c-4247efff8ecd)
+![Screenshot (11)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/5a990af1-bf9f-47a0-9790-a532a18e6860)
+![Screenshot (12)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/7a4ff7c3-88f3-41a0-8e9b-855cd213f3fc)
+![Screenshot (13)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/2decccce-116c-4cfe-84c4-55691fefa8fa)
+![Screenshot (17)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/5c9b2436-1f38-47e0-91e4-04edd4dbe482)
+![Screenshot (26)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/e3d0b4a1-d983-4cf1-8083-8a1532c59153)
+![Screenshot (18)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/cc43c636-1bf4-4d16-b958-c6411f022b16)
+![Screenshot (25)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/4572965d-2104-4af3-9178-2d7d5bf46243)
+![Screenshot (46)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/0629585f-04d9-41f5-a2f9-f0304bbcce07)
+![Screenshot (47)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/8c043b39-f8ac-404e-b462-a6ff363468c3)
+![Screenshot (48)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/53fbe2a8-771e-4f97-b167-cec1b0e7d5fe)
+![Screenshot (50)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/e4a778c4-71c2-4284-93e4-6a028be6eda6)
+![Screenshot (68)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/33725653-c44c-4d4b-b6ad-1e13ee608883)
+![Screenshot (69)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/98dc5506-1a12-4e32-8474-a3d1a366f79c)
+![Screenshot (70)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/740ea8ea-a0bc-4256-899f-7dbfb65f5c22)
+![Screenshot (77)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/b768535a-6856-4e70-91d7-c0def0a4dbd5)
+![Screenshot (78)](https://github.com/ManikHossain27/AgriBangla/assets/131261253/e533ca7e-a14b-40d2-899e-e5333bdb5fee)
